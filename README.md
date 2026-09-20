@@ -1,8 +1,14 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+<style>
+  body { padding: 2rem; max-width: 900px; margin: 0 auto; }
+</style>
+
+
 # Car Camping Checklist
 
 ## Absolute Essentials
 
-- [ ] [ ] Booking confirmation and government ID
+- [ ] Booking confirmation and government ID
 - [ ] Tent with rainfly and stakes
 - [ ] Cold-rated sleeping bags
 - [ ] Insulated sleeping pads
