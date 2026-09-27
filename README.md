@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Car Camping Checklist
 
 ## Absolute Essentials
