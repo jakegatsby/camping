@@ -1,9 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
-<style>
-  body { padding: 2rem; max-width: 900px; margin: 0 auto; }
-</style>
-
-
 # Car Camping Checklist
 
 ## Absolute Essentials
