@@ -9,39 +9,52 @@ layout: default
 - [ ] Booking confirmation and government ID
 - [ ] Tent
 - [ ] Stakes
-- [ ] Cold-rated sleeping bags
+- [ ] Sleeping bag(s)
+- [ ] Air mattress
 - [ ] Insulated sleeping pads
 - [ ] Warm non-cotton clothing
 - [ ] Headlamps and extra batteries
-- [ ] Car keys, wallet, and cash
+- [ ] Car keys
+- [ ] Wallet
+- [ ] Phone
+- [ ] Cash
 
 
-## Basic Essentials
+## Misc Equipment
 
 - [ ] Cooler
-- [ ] Camp stove and fuel
-- [ ] Lighter, waterproof matches, and fire starter
-- [ ] Cookware and eating utensils
-- [ ] Dish soap and dish sponge
+- [ ] Camp stove
+- [ ] Stove fuel
+- [ ] Lighter & waterproof matches
+- [ ] Fire starter
+- [ ] Plates
+- [ ] Cups
+- [ ] Utensils
+- [ ] Dish soap
+- [ ] Dish sponge
+- [ ] Paper towel
 - [ ] Potable water jug
 - [ ] Trash bags
 - [ ] First aid kit
 - [ ] Toiletries
-
-
-## Other
-
 - [ ] Kettle
-- [ ] Coffee maker & grounds
+- [ ] Coffee maker
 - [ ] Tumblers
-- [ ] Firewood axe or hatchet and fire gloves
+- [ ] Axe
 - [ ] Rope
 - [ ] Tarp
 - [ ] Camp chairs
 - [ ] Power bank
-- [ ] Camp lantern or string lights
+- [ ] Camp lantern
 - [ ] Marshmallow or hot dog roasting sticks
 - [ ] Board games, cards, or books
 - [ ] Slip-on shoes or camp slippers
 - [ ] Swimsuit
 - [ ] Towels
+
+
+## Food
+
+- [ ] Coffee grounds
+- [ ] Tea
+- [ ] Oat Milk
