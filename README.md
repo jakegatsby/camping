@@ -29,6 +29,7 @@ layout: default
 - [ ] Fire starter
 - [ ] Plates
 - [ ] Cups
+- [ ] Bowls
 - [ ] Utensils
 - [ ] Dish soap
 - [ ] Dish sponge
