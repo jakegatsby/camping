@@ -9,7 +9,8 @@
 ## Absolute Essentials
 
 - [ ] Booking confirmation and government ID
-- [ ] Tent with rainfly and stakes
+- [ ] Tent
+- [ ] Stakes
 - [ ] Cold-rated sleeping bags
 - [ ] Insulated sleeping pads
 - [ ] Warm non-cotton clothing
@@ -19,6 +20,7 @@
 
 ## Basic Essentials
 
+- [ ] Cooler
 - [ ] Camp stove and fuel
 - [ ] Lighter, waterproof matches, and fire starter
 - [ ] Cookware and eating utensils
@@ -28,6 +30,7 @@
 - [ ] First aid kit
 - [ ] Toiletries
 
+
 ## Other
 
 - [ ] Kettle
@@ -35,7 +38,7 @@
 - [ ] Tumblers
 - [ ] Firewood axe or hatchet and fire gloves
 - [ ] Rope
-- [ ] Tarp, guylines, and extra stakes
+- [ ] Tarp
 - [ ] Camp chairs
 - [ ] Power bank
 - [ ] Camp lantern or string lights
