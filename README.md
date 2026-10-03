@@ -42,6 +42,7 @@ layout: default
 
 ## Kitchen & Food
 
+- Breakfast x 2, Lunch x 3, Dinner x 2
 - [ ] Cooler
 - [ ] Camp stove
 - [ ] Stove fuel
@@ -66,7 +67,8 @@ layout: default
 - [ ] Oat Milk
 - [ ] Single serve honey
 - [ ] Butter
-- [ ] Shredded cheese for eggs, burgers, etc
+- [ ] Salt and pepper
+- [ ] Shredded cheese for eggs, burgers, quesadillas, etc
 - [ ] 1 dozen eggs for breakfast and french toast
 - [ ] Breakfast flat buns x 4
 - [ ] French Toast
@@ -82,4 +84,15 @@ layout: default
 - [ ] BBQ sauce
 - [ ] Mustard
 - [ ] Corn relish
-- [ ]
+- [ ] Savory crepes wrapped in tinfoil
+- [ ] Tomatoes
+- [ ] Cucumbers
+- [ ] Quesadillas:
+      - [ ] Packet of taco seasoning
+      - [ ] Salsa
+      - [ ] Tortillas
+      - [ ] Bell pepper
+      - [ ] Onion
+      - [ ] Sausage
+
+
