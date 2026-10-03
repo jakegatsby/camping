@@ -71,6 +71,7 @@ layout: default
 - Shredded cheese for eggs, burgers, quesadillas, etc
 - 1 dozen eggs for breakfast and french toast
 - Breakfast flat buns x 4
+- Breakfast sausage
 - French Toast
       - Brioche loaf
       - Maple Syrup
