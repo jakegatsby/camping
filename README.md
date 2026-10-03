@@ -22,11 +22,36 @@ layout: default
 
 ## Misc Equipment
 
+- [ ] Lighter & waterproof matches
+- [ ] Fire starter
+- [ ] Potable water jug
+- [ ] Trash bags
+- [ ] First aid kit
+- [ ] Toiletries
+- [ ] Axe
+- [ ] Rope
+- [ ] Tarp
+- [ ] Camp chairs
+- [ ] Power bank
+- [ ] Camp lantern
+- [ ] Board games, cards, or books
+- [ ] Slip-on shoes or camp slippers
+- [ ] Swimsuit
+- [ ] Towels
+
+
+## Kitchen & Food
+
 - [ ] Cooler
 - [ ] Camp stove
 - [ ] Stove fuel
-- [ ] Lighter & waterproof matches
-- [ ] Fire starter
+- [ ] Kettle
+- [ ] Frying pan
+- [ ] Spatulla
+- [ ] Tongs
+- [ ] Bread knife
+- [ ] Marshmallow or hot dog roasting sticks
+- [ ] Tinfoil
 - [ ] Plates
 - [ ] Cups
 - [ ] Bowls
@@ -34,28 +59,27 @@ layout: default
 - [ ] Dish soap
 - [ ] Dish sponge
 - [ ] Paper towel
-- [ ] Potable water jug
-- [ ] Trash bags
-- [ ] First aid kit
-- [ ] Toiletries
-- [ ] Kettle
 - [ ] Coffee maker
 - [ ] Tumblers
-- [ ] Axe
-- [ ] Rope
-- [ ] Tarp
-- [ ] Camp chairs
-- [ ] Power bank
-- [ ] Camp lantern
-- [ ] Marshmallow or hot dog roasting sticks
-- [ ] Board games, cards, or books
-- [ ] Slip-on shoes or camp slippers
-- [ ] Swimsuit
-- [ ] Towels
-
-
-## Food
-
 - [ ] Coffee grounds
 - [ ] Tea
 - [ ] Oat Milk
+- [ ] Single serve honey
+- [ ] Butter
+- [ ] Shredded cheese for eggs, burgers, etc
+- [ ] 1 dozen eggs for breakfast and french toast
+- [ ] Breakfast flat buns x 4
+- [ ] French Toast
+      - [ ] Brioche loaf
+      - [ ] Maple Syrup
+      - [ ] Raspberries
+- [ ] Pre-tinfoiled potatoes
+- [ ] Italian sausages
+- [ ] Sausage buns
+- [ ] Burgers
+- [ ] Burger buns
+- [ ] Ketchup
+- [ ] BBQ sauce
+- [ ] Mustard
+- [ ] Corn relish
+- [ ]
