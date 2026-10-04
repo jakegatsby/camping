@@ -75,7 +75,6 @@
 - Breakfast flat buns x 4
 - Breakfast sausage
 - French Toast:
-
     - Brioche loaf
     - Maple Syrup
     - Raspberries
@@ -94,7 +93,6 @@
 - Pre-made soup
 - Baguette
 - Quesadillas:
-
     - Packet of taco seasoning
     - Salsa
     - Tortillas

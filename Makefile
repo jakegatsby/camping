@@ -2,7 +2,7 @@ SHELL := /bin/bash
 MAKEFLAGS += --always-make
 
 
-all: build publish view-live
+all: build publish view-local
 
 
 build:
@@ -11,6 +11,10 @@ build:
 
 publish:
 	git add -A; git commit -m "$$(date -Is)"; git push
+
+
+view-local:
+	firefox index.html
 
 
 view-live:
