@@ -6,7 +6,7 @@ all: build publish view-live
 
 
 build:
-	pandoc README.md -o index.html --metadata title="Camping Checklist" --template=template.html
+	pandoc README.md -f gfm -o index.html --metadata title="Camping Checklist" --template=template.html
 
 
 publish:
