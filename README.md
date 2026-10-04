@@ -35,9 +35,13 @@ layout: default
 - Power bank
 - Camp lantern
 - Board games, cards, or books
-- Slip-on shoes or camp slippers
 - Swimsuit
+- Hiking/boating sandals
+- Shower sandals
 - Towels
+- Glasses (for reading)
+- Vaseline (for fire starting)
+
 
 
 ## Kitchen & Food
@@ -48,6 +52,8 @@ layout: default
 - Stove fuel
 - Kettle
 - Frying pan
+- Pot
+- Table ?
 - Spatulla
 - Tongs
 - Bread knife
@@ -73,9 +79,9 @@ layout: default
 - Breakfast flat buns x 4
 - Breakfast sausage
 - French Toast
-      - Brioche loaf
-      - Maple Syrup
-      - Raspberries
+    - Brioche loaf
+    - Maple Syrup
+    - Raspberries
 - Pre-tinfoiled potatoes
 - Italian sausages
 - Sausage buns
@@ -88,12 +94,14 @@ layout: default
 - Savory crepes wrapped in tinfoil
 - Tomatoes
 - Cucumbers
+- Pre-made soup
+- Baguette
 - Quesadillas:
-      - Packet of taco seasoning
-      - Salsa
-      - Tortillas
-      - Bell pepper
-      - Onion
-      - Sausage
+    - Packet of taco seasoning
+    - Salsa
+    - Tortillas
+    - Bell pepper
+    - Onion
+    - Sausage
 
 
