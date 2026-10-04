@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Car Camping Checklist
 
 ## Absolute Essentials
@@ -79,9 +75,9 @@ layout: default
 - Breakfast flat buns x 4
 - Breakfast sausage
 - French Toast
-    - Brioche loaf
-    - Maple Syrup
-    - Raspberries
+        - Brioche loaf
+        - Maple Syrup
+        - Raspberries
 - Pre-tinfoiled potatoes
 - Italian sausages
 - Sausage buns
@@ -97,11 +93,11 @@ layout: default
 - Pre-made soup
 - Baguette
 - Quesadillas:
-    - Packet of taco seasoning
-    - Salsa
-    - Tortillas
-    - Bell pepper
-    - Onion
-    - Sausage
+        - Packet of taco seasoning
+        - Salsa
+        - Tortillas
+        - Bell pepper
+        - Onion
+        - Sausage
 
 

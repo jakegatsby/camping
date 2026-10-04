@@ -2,8 +2,7 @@ SHELL := /bin/bash
 MAKEFLAGS += --always-make
 
 
-view-live:
-	firefox https://jakegatsby.github.io/camping/
+all: build publish view-live
 
 
 build:
@@ -14,4 +13,5 @@ publish:
 	git add -A; git commit -m "$$(date -Is)"; git push
 
 
-all: build publish view-live
+view-live:
+	firefox https://jakegatsby.github.io/camping/
