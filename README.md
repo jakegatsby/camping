@@ -5,11 +5,11 @@
 - Booking confirmation and government ID
 - Tent
 - Stakes
-- Sleeping bag(s)
+- Poles
+- Sleeping bag
 - Air mattress
-- Insulated sleeping pads
-- Warm non-cotton clothing
-- Headlamps and extra batteries
+- Headlamps / flashlight
+- Lantern
 - Car keys
 - Wallet
 - Phone
@@ -32,9 +32,12 @@
 - Camp lantern
 - Board games, cards, or books
 - Swimsuit
-- Hiking/boating sandals
-- Shower sandals
+- Water sandals
+- Shower sandals (flip-flops)
+- Hiking boots
 - Towels
+- Gloves
+- Thermal underwear
 - Glasses (for reading)
 - Vaseline (for fire starting)
 
