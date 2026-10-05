@@ -7,6 +7,7 @@
 - Stakes
 - Poles
 - Sleeping bag
+- Pillows
 - Air mattress
 - Headlamps / flashlight
 - Lantern
@@ -23,6 +24,8 @@
 - Potable water jug
 - Trash bags
 - First aid kit
+- Bug spray
+- Bear spray?
 - Toiletries
 - Axe
 - Rope
