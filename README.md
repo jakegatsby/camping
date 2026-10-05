@@ -39,6 +39,7 @@
 - Gloves
 - Thermal underwear
 - Glasses (for reading)
+- Portable speaker
 - Vaseline (for fire starting)
 
 
