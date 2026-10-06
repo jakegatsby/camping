@@ -77,6 +77,7 @@
 - Single serve honey
 - Butter
 - Salt and pepper
+- Apple pie
 - Shredded cheese for eggs, burgers, quesadillas, etc
 - 1 dozen eggs for breakfast and french toast
 - Breakfast flat buns x 4
