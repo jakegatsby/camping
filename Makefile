@@ -2,7 +2,7 @@ SHELL := /bin/bash
 MAKEFLAGS += --always-make
 
 
-all: build publish view-local
+all: build publish
 
 
 build:
