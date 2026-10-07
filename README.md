@@ -38,6 +38,7 @@
 - Water sandals
 - Shower sandals (flip-flops)
 - Hiking boots
+- Umbrella(s)
 - Towels
 - Gloves
 - Thermal underwear
